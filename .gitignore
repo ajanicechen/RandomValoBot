@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+vendor/
+.env
+
+# Yarn / npm logs
+yarn-error.log
+npm-debug.log*
+
+# Symfony / PHP
+/vendor/
+/var/
+/.env
+/.idea/
+/*.iml
+
+# Build outputs
+/public/build/
+/public/media/cache/
+/public/media/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
